@@ -111,5 +111,3 @@ No license is currently provided in this repository. If you wish to release or r
 
 - The project uses Kinect for Windows SDK v2.0 and sample wrappers under `Assets/Standard Assets/Windows/Kinect`.
 - Unity 2022 LTS and common Unity packages form the basis of the project.
-
-If you want me to include contributor names or add build instructions for other platforms, tell me which specifics you'd like to add and I’ll update the README.
